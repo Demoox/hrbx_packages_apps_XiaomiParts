@@ -1,0 +1,14 @@
+ 
+<resources>
+    <string name="app_name">XiaomiParts</string>
+    <string name="advanced_settings">Xiaomi Parts</string>
+    <string name="advanced_settings_summary">Vibrazione e Torcia</string>
+    <string name="category_vibrator">Vibrazione</string>
+    <string name="vib_strength_title_head">Intensità</string>
+    <string name="vib_strength_summary_head">Imposta l'intensità della vibrazione</string>
+    <string name="category_torch">Torcia</string>
+    <string name="yellow_torch_brightness_title_head">Luminosità massima del led giallo</string>
+    <string name="yellow_torch_brightness_summary_head">Imposta la luminosità massima del leg giallo</string>
+    <string name="white_torch_brightness_title_head">Luminosità massima del led bianco</string>
+    <string name="white_torch_brightness_summary_head">Imposta la luminosità massima del led bianco</string>
+</resources>
